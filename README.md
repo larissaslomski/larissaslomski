@@ -1,17 +1,15 @@
-## Olá!! Eu sou Larissa Slomski, estudante de programação e tecnologia!
+## Olá!! Me chamo Larissa Slomski, estudante de programação e tecnologia!
 <p> 💻 Estudante de Sistemas de Informação na UFSC </p> 
 <p>🐍 Trabalho com Python</p> 
-<p>💡 Aprendendo a usar Docker</p> 
-<p>⌨️ Aprendendo a programar front end com Javascript e CSS</p> 
+<p>💡 Aprendendo a usar Dockere Django</p> 
+
 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Rafa-React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+  <img align="center" alt="Rafa-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 </div>
   
   ##
