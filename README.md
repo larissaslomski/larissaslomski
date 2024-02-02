@@ -1,7 +1,7 @@
 ## Olá!! Me chamo Larissa Slomski, estudante de programação e tecnologia!
 <p> 💻 Estudante de Sistemas de Informação na UFSC </p> 
 <p>🐍 Trabalho com Python</p> 
-<p>💡 Aprendendo a usar Dockere Django</p> 
+<p>💡 Aprendendo a usar Docker e Django</p> 
 
 
 
